@@ -1,0 +1,12 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "producto": "Jabon",
+      "autor": "Juancho",
+      "precio": "10000COP",
+      "genero": "Limpieza",
+      "disponibilidad": true
+    }
+  ]
+}
